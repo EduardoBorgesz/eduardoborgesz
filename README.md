@@ -13,6 +13,8 @@ Sou Eduardo Borges, tenho 20 anos e sou natural do Paraná. Atualmente, estou cu
 
 <br/>
 
+---
+
 ### 📊 Minhas Estatísticas no GitHub
 
 <p>
